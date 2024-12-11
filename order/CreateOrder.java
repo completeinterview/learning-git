@@ -9,6 +9,10 @@ class CreateOrder {
         System.out.println("Thank you!");
     }
 
+    public static void verifyOrder() {
+        System.out.println("Order is verified successfully.");
+    }
+
 
     public static void main(String[] args) {
         processOrder();
