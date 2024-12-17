@@ -1,0 +1,16 @@
+/* External Styling */
+
+/* Using class as a selector */
+.container {
+    color: red;
+}
+
+/* Using id as a selector */
+#container {
+    color: purple;
+}
+
+/* Using tag as a selector */
+p {
+    color: blue;
+}
